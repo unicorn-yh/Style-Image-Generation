@@ -44,7 +44,7 @@ The pretrained [Stable Diffusion v2.1](https://huggingface.co/stabilityai/stable
 
 
 
-
+<br>
 
 #### *References:*
 
